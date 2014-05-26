@@ -1,0 +1,10 @@
+Source: prlimit
+Section: misc
+Priority: optional
+Maintainer: Pierre-Yves Kerembellec <py.kerembellec@gmail.com>
+Build-Depends: debhelper (>= 5), gcc, make
+Standards-Version: 3.7.2
+
+Package: prlimit
+Architecture: any
+Description: get/set process resource limits

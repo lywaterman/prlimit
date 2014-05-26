@@ -1,0 +1,5 @@
+prlimit (1.0) precise; urgency=low
+
+  * initial release
+
+ -- Pierre-Yves Kerembellec <py.kerembellec@gmail.com>  Fri, 02 May 2014 17:09:03 +0200
